@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.2em;
+  padding-bottom: 10px;
+}
+
+.child {
+  padding-left: 20px;
+}
+
+.country {
+  background-color: yellow;
+  padding: 15px;
+}
+
+.state {
+  background-color: green;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.city {
+  background-color: cyan;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.city-title {
+  display: inline-block;
+  width: 100px;
+}
+
+.city-cases {
+  display: inline-block;
+  width: 100px;
+  padding-right: 10px;
+}
+
+.city-buttons {
+  float: right;
+  position: relative;
+}
+
+.city-buttons button {
+  margin-right: 5px;
+}
